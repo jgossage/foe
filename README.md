@@ -1,2 +1,2 @@
 # foe
-Tools too nalyze a situation in the FoE game.
+Tools to analyze a situation in the FoE game.
